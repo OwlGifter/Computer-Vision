@@ -1,0 +1,1 @@
+This was an exercise to test OpenCv functionality as well as touching a little on the subject of gamma correction

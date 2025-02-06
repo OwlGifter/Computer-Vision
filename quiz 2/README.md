@@ -1,0 +1,1 @@
+This is a quiz where we have to add the object in this case the "quixote" onto the "windmills" image by removing the blue background and inserting it into the "windmills" image. This process involves blue removal from the image, creating a mask from the image, and using it in order to comfortably add the "quixote" onto the "windmills".

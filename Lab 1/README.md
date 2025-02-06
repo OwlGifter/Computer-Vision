@@ -1,0 +1,1 @@
+This is a lab where we focus on editing and transforming as well as masking the input of my computers webcam, we use a little of image channel editing, as well as transforming it using python array functionality, in order to get comfortable working with img arrays from OpenCV.
